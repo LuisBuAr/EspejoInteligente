@@ -5,4 +5,4 @@ En estas habitaciones, se busca aplicar sistemas inteligentes para mostrar infor
 controlar elementos como la iluminación o las persianas y mostrar en un espejo inteligente la información relevante. 
 Todo lo anterior es soportado por un sistema Raspberry Pi.
 
-Todos los módulos de terceros y sistemas utilizados están debidamente referenciados en mi TFG "Sistema inteligente para habitaciones hoteleras".
+## Todos los módulos de terceros y sistemas utilizados están debidamente referenciados en mi TFG "Sistema inteligente para habitaciones hoteleras".
