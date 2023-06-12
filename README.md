@@ -1,4 +1,6 @@
-# EspejoInteligente
+# Repositorio del Espejo Inteligente
+Lo subido en el repositorio es lo esencial para el desarrollo del trabajo.
+
 El proyecto se centra en satisfacer las nuevas necesidades de los clientes del mercado de la hostelería,
 más concretamente implementar el proyecto en las habitaciones que contratan los huéspedes. 
 En estas habitaciones, se busca aplicar sistemas inteligentes para mostrar información de temperatura y humedad,
